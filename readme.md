@@ -1,6 +1,6 @@
 # Flex Blog
 
-
+![Visão parcial da página Flex Blog, onde seu tema é azul, possui fundo de texto branco e aspecto moderno](https://github.com/Hitnnan/flexblog/blob/master/flexblog.png)
 
 ## Do que se trata?
 
